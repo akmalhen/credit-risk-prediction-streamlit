@@ -1,0 +1,17 @@
+# Data manipulation and visualization libraries
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning libraries
+scikit-learn
+imbalanced-learn
+xgboost
+lightgbm
+
+# Web application framework
+streamlit
+
+# Utility for saving models
+joblib
